@@ -1393,7 +1393,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: https://tuchuang.voooe.cn/images/2024/07/19/wallhaven-2861kg.png;
+  background: https://yaoxiaoxie.github.io/source/assets/background/background.jpg;
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -3571,13 +3571,6 @@ h1.page-title + .tag-cloud-list {
   width: 100%;
   height: 100%;
   background-color: rgba(0,0,0,0.3);
-  content: '';
-}
-#footer:before {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.5);
   content: '';
 }
 #footer-wrap {
