@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://blog.yaoxiaoxie.us.kg/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.yaoxiaoxie.us.kg/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -47,43 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.yaoxiaoxie.us.kg/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yaoxiaoxie.us.kg/personal/about/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yaoxiaoxie.us.kg/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.yaoxiaoxie.us.kg/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yaoxiaoxie.us.kg/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -101,7 +56,25 @@
   </url>
   
   <url>
-    <loc>https://blog.yaoxiaoxie.us.kg/social/fcircle/index.html</loc>
+    <loc>https://blog.yaoxiaoxie.us.kg/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yaoxiaoxie.us.kg/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yaoxiaoxie.us.kg/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -119,7 +92,34 @@
   </url>
   
   <url>
+    <loc>https://blog.yaoxiaoxie.us.kg/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.yaoxiaoxie.us.kg/social/link/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yaoxiaoxie.us.kg/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yaoxiaoxie.us.kg/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
